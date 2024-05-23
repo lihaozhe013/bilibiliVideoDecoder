@@ -12,8 +12,10 @@ Instruction
 
 To use this script, you need to have Python 3 and the required libraries installed on your computer.
 It is recommended to try running the following command in the terminal before attempting to run the script.
+
 pip install moviepy
 pip install tkinterdnd2
+
 The script was developed based on Windows 11, there is no guarantee that it will work on other operating systems. if you are using other operating systems like macOS, you may need to use "pip3 install moviepy" and "pip3 install tkinterdnd2
 " instead of the pip command.
 
