@@ -1,8 +1,3 @@
-Disclaimer
-
-This tool was developed with the help of ChatGPT4. Cannot guarantee that all content is original.
-
-
 Introduction
 
 The purpose of developing this tool is to enable users to save their favorite videos from Bilibili and ensure they can be accessed and enjoyed for the long term. Therefore, this tool is solely intended for converting files downloaded from the Bilibili client into an MP4 and an MP3 file. For playback, it is recommended to use a good media player or a program for merging MP4 and MP3 files. The tool is written in Python 3 and is fully open-source. Additionally, I will create packaged EXE files for Windows users to use.
